@@ -1,10 +1,10 @@
-f3b631dbdaac37dc57424ae00ede2957 *DESCRIPTION
+9894a3f38de75ff51aadda2fdd02384b *DESCRIPTION
 3385109ce84a8823bafc5f0cd0683bb3 *NAMESPACE
-675f4e8fac14dada6be6f5df234104e1 *NEWS
+e42358e4a6617d35366c6570255c5238 *NEWS
 7f65f50e7a4f9d05e2e1d786bb343a24 *R/class-DataFrameConstr.R
 df6c51b879010e8d1a56610e62f3ada2 *R/class-HomogList.R
 fc527588079e60e5c62ca568c03bbdd3 *R/constrained_data_frame.R
-03773cfc5c04cda84023472ff430f93a *R/package.R
+3de8bc4501b8041cf145f7f00ff18745 *R/package.R
 0d28e89b32a0ec3d7e085be1cafe90de *R/subclass_homog_list.R
 238e768190c6c0c32710ae6b0a76a864 *README.md
 493417b07e0f0195892e1027400b64b5 *inst/doc/DataFrameConstr.Rnw
